@@ -1,0 +1,45 @@
+_repo: Le-Dernier-Jour-d-un-Condamne_6838
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: "The Last Day of a Condemned Man (French: Le Dernier Jour d'un Condamné)\
+  \ is a short novel by Victor Hugo first published in 1829. The novel recounts the\
+  \ thoughts of a man condemned to die. Victor Hugo wrote this novel to express his\
+  \ feelings that the death penalty should be abolished.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6838'
+  wikidata: Q1199417
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Capital punishment -- Fiction'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Prisoners -- France -- Fiction'
+title: Le Dernier Jour d'un Condamné
+url: http://www.gutenberg.org/ebooks/6838
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Dernier_Jour_d%27un_condamn%C3%A9
+- https://ar.wikipedia.org/wiki/%D8%A2%D8%AE%D8%B1_%D8%A3%D9%8A%D8%A7%D9%85_%D9%85%D8%AF%D8%A7%D9%86
+- https://nl.wikipedia.org/wiki/Le_Dernier_Jour_d%27un_condamn%C3%A9
+- https://pt.wikipedia.org/wiki/O_%C3%9Altimo_Dia_de_um_Condenado_%C3%A0_Morte
+- https://fa.wikipedia.org/wiki/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86_%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C_%DB%8C%DA%A9_%D9%85%D8%AD%DA%A9%D9%88%D9%85_%D8%A8%D9%87_%D8%A7%D8%B9%D8%AF%D8%A7%D9%85
+- https://de.wikipedia.org/wiki/Der_letzte_Tag_eines_Verurteilten
+- https://pl.wikipedia.org/wiki/Ostatni_dzie%C5%84_skaza%C5%84ca
+- https://en.wikipedia.org/wiki/The_Last_Day_of_a_Condemned_Man
+- https://it.wikipedia.org/wiki/L%27ultimo_giorno_di_un_condannato_a_morte
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%91%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA_%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8
+- https://el.wikipedia.org/wiki/%CE%97_%CE%A4%CE%B5%CE%BB%CE%B5%CF%85%CF%84%CE%B1%CE%AF%CE%B1_%CE%9C%CE%AD%CF%81%CE%B1_%CE%B5%CE%BD%CF%8C%CF%82_%CE%9A%CE%B1%CF%84%CE%AC%CE%B4%CE%B9%CE%BA%CE%BF%CF%85
+- https://ca.wikipedia.org/wiki/El_darrer_dia_d%27un_condemnat
+- https://fr.wikisource.org/wiki/Le_Dernier_Jour_d%E2%80%99un_Condamn%C3%A9/%C3%A9d._1910
