@@ -1,4 +1,8 @@
 _repo: Le-Dernier-Jour-d-un-Condamne_6838
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hugo, Victor
@@ -12,6 +16,8 @@ description: "The Last Day of a Condemned Man (French: Le Dernier Jour d'un Cond
   \ is a short novel by Victor Hugo first published in 1829. The novel recounts the\
   \ thoughts of a man condemned to die. Victor Hugo wrote this novel to express his\
   \ feelings that the death penalty should be abolished.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6838#Le-Dernier-Jour-d-un-Condamne
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
